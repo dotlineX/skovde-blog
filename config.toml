@@ -45,7 +45,7 @@ minuteReadingTime = "min read"
 dateFormatSingle = "2006-01-02"
 dateFormatList = "2006-01-02"
 # leave empty to disable, enter display text to enable
-# lastModDisplay = ""
+lastModDisplay = "Edited: "
 
 [languages.en.params.logo]
 logoText = "Skövde Blog"
