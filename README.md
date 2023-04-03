@@ -5,5 +5,6 @@
 
 This is the blog of Group 1, 2 and 3 for their trip to Skövde, Sweden.
 
-Its based on Hugo and pages can be written in .md format
+Its based on Hugo and pages can be written in .md format.
+
 More info can be found [here](https://gohugo.io/documentation/)
