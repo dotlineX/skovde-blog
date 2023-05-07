@@ -2,7 +2,7 @@
 title: "Day 0 - Starting our journey"
 description: "Arriving to Sweden"
 toc: false
-cover: "bg.jpg"
+cover: "bg.webp"
 useRelativeCover: true
 ---
 
@@ -22,4 +22,4 @@ We ate some really nice food and walked around the city.
 Noticing the time, we went to the Stockholm Central Station to catch our train to Skövde.
 Sadly, we noticed that there were a lot of delays and our train also got delayed by about an hour.
 
-![Train picture](train.jpg)
+![Train picture](train.webp)
