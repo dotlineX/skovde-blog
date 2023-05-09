@@ -10,7 +10,7 @@ useRelativeCover: true
 ## Wednesday Morning
 Wednesday was an exceptionally diverse day filled with challenges and excitement. Our task was to start from scratch and set up the security, aiming to make everything operational as quickly as possible, so that other groups wouldn't have a chance to attack us. The pressure was high, but our team was determined and got to work.
 
-
+![Wednesday morning](./working.webp)
 
 ## Securing the servers and websites
 Throughout the morning, the different groups diligently worked on securing the servers and websites against potential breaches. It was a race against the clock, with each team leveraging their expertise and creativity to implement the best possible security measures. Strategies were devised, security protocols were established, and firewalls were installed, all with the goal of making our digital infrastructure impenetrable.
