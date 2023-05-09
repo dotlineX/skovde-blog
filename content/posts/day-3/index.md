@@ -2,11 +2,10 @@
 title: "Day 3 - A Day Filled with Challenges, Security, and International Bonding"
 description: "Securing the servers and websites to prevent breaches"
 toc: false
-cover: ""
+cover: "working.webp"
 useRelativeCover: true
 ---
 
-![Working](./working.webp)
 
 ## Wednesday Morning
 Wednesday was an exceptionally diverse day filled with challenges and excitement. Our task was to start from scratch and set up the security, aiming to make everything operational as quickly as possible, so that other groups wouldn't have a chance to attack us. The pressure was high, but our team was determined and got to work.
