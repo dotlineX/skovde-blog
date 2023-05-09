@@ -22,7 +22,7 @@ After it was clear that no more attacks would be taking place anymore, the teach
 
 ## Hidden beauty
 
-Matis and his travel companions came to Sköve by car, which was perfect since the waterfall we wanted to visis was about 20 minutes away from where we were staying. We drove to Silverfallet, a beautiful waterfall in the middle of the forest.
+Matis and his travel companions came to Sköve by car, which was perfect since the waterfall we wanted to visit was about 20 minutes away from where we were staying. We drove to Silverfallet, a beautiful waterfall in the middle of the forest.
 
 It had just snowed a lot the night before, so it was mersmerising to see together with frozen parts of the waterfall. We took some pictures and enjoyed the view for a while.
 
