@@ -6,7 +6,7 @@ cover: "bg.webp"
 useRelativeCover: true
 ---
 
-## Going to the Sweden
+## Going to Sweden
 
 Our journey started as a usual trip. We got our bags and went to the airport. Ali, Miguel and Sinan were travelling
 together, they landed at Bromma airport in Stockholm.
