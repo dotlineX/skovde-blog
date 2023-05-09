@@ -49,5 +49,5 @@ And of course, what would a trip be without a group picture?
 
 ![Waterfall](waterfall_06.jpeg)
 
-That was it for the day. We went back to the hostel, hanged out with the rest of the students and packed our bags for
+That was it for the day. We went back to the hostel, hung out with the rest of the students and packed our bags for
 the trip back home the next day.
