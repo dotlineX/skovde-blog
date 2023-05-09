@@ -24,6 +24,7 @@ However, soon enough, some groups started discovering the vulnerabilities in mos
 ## Evening Dinner
 After a day full of challenges, we gathered in the student pub in the evening to have dinner with both the Swedes and the Belgians. During the meal, we had a fun competition between the two tables, where we had to empty as many glasses as possible and line them up on the other side of the table. It turned into a hilarious and competitive evening, with the team that reached the other side of the table first winning the contest. It was a great opportunity to relax, enjoy each other's company, and strengthen our team spirit.
 
+![Dinner](./dinner.webp)
 
 ## Night Out
 After dinner, some Belgians and Swedes decided to continue to a pub in town. We spent the evening there, full of fun and laughter. We mingled with the locals and got to know new Swedish students. It was a cozy and lively atmosphere, where we created even more beautiful memories and strengthened our international bonds. It was a fantastic opportunity to enjoy each other's company and experience the culture of the host country.
