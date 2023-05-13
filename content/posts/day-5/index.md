@@ -8,9 +8,9 @@ useRelativeCover: true
 
 # Bidding Adieu to Skövde's School Adventure
 
-## A Crisp, Sunny Morning
+## A Snowy Spring Morning
 
-And so, we arrived at the grand finale of our school project week in Skövde, Sweden. It was a typical Swedish spring morning - chilly but not too harsh. The sun was already up, casting a soft, golden light over the town.
+And so, we arrived at the grand finale of our school project week in Skövde, Sweden. It was a typical Swedish spring morning - chilly and actually, quite snowy. The sun was hiding, letting the snowflakes take center stage, creating a grey but mesmerizing morning scene.
 
 ## The Last Day of the Project
 
@@ -18,11 +18,15 @@ With our luggage in tow, we made our way to the school for the last time. There 
 
 ## The Blue Hat Triumph
 
-Much to everyone's surprise, the group that came in third on the leaderboard was declared the most secure group. With their blue hats bobbing in triumph, Noa and Ali had managed to lock down their system so tightly that they received the fewest attacks and discovered the least number of vulnerabilities.
+Much to everyone's surprise, the group that came in third on the leaderboard was declared the most secure group. With their blue hats bobbing in triumph, Noa and Ali had managed to lock down their system so tightly that they received the fewest attacks and discovered the least number of vulnerabilities. Noa gave a charismatic explanation of their methods and motives, earning the admiration and applause of everyone present.
 
 ## Final Presentation Session
 
 Then came the part we had all been eagerly waiting for - the final presentation session with our teachers. It was a great opportunity to learn from each other as we reviewed the different approaches taken to overcome the challenges.
+
+## A Note of Acknowledgement: 'Admin Admin'
+
+After the presentations, it was revealed that the 'Admin Admin' team had scored the highest, earning a commendable 33 points. As a token of appreciation for their efforts, each member was awarded a Skövde sweater.
 
 ## A Culinary Finale: The Smorgastarta
 
