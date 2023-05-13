@@ -12,6 +12,8 @@ useRelativeCover: true
 
 And so, we arrived at the grand finale of our school project week in Skövde, Sweden. It was a typical Swedish spring morning - chilly and actually, quite snowy. The sun was hiding, letting the snowflakes take center stage, creating a grey but mesmerizing morning scene.
 
+![going-to-school-in-the-morning](images/last-day-going-to-school-morning.webp)
+
 ## The Last Day of the Project
 
 With our luggage in tow, we made our way to the school for the last time. There was no new work planned for the day; instead, we were to review everything we had accomplished throughout the week. We were eager to see who had managed to "hack" who, and who had done a stellar job at defending against the attacks.
@@ -20,9 +22,15 @@ With our luggage in tow, we made our way to the school for the last time. There 
 
 Much to everyone's surprise, the group that came in third on the leaderboard was declared the most secure group. With their blue hats bobbing in triumph, Noa and Ali had managed to lock down their system so tightly that they received the fewest attacks and discovered the least number of vulnerabilities. Noa gave a charismatic explanation of their methods and motives, earning the admiration and applause of everyone present.
 
+![leaderboard](images/leaderboard.webp)
+
 ## Final Presentation Session
 
 Then came the part we had all been eagerly waiting for - the final presentation session with our teachers. It was a great opportunity to learn from each other as we reviewed the different approaches taken to overcome the challenges.
+
+|                  Final Presentation                   |               Noah speech               |
+| :---------------------------------------------------: | :-------------------------------------: |
+| ![final-presentation](images/final-presentation.webp) | ![noah-speech](images/noah-speech.webp) |
 
 ## A Note of Acknowledgement: 'Admin Admin'
 
