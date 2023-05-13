@@ -40,6 +40,10 @@ After the presentations, it was revealed that the 'Admin Admin' team had scored 
 
 Following the presentations, we feasted on Smorgastarta, a delicious, traditional Swedish dish. Stacked with layers of bread, cheese, vegetables, and meats, it was a fun way to bond with our fellow participants over a shared cultural experience.
 
+|                  Final Presentation                   |               Noah speech               |                         Smorgastarta                          |
+| :---------------------------------------------------: | :-------------------------------------: | :-----------------------------------------------------------: |
+| ![final-presentation](images/final-presentation.webp) | ![noah-speech](images/noah-speech.webp) | ![smorgastarta-unpacking](images/smorgastarta-unpacking.webp) |
+
 ## The Journey Home
 
 With the project officially over, we all split up into different groups. Some headed to Stockholm, others to Gothenburg. Some of us even decided to stay an extra day in Stockholm, probably lured by the city's irresistible charm.
@@ -47,6 +51,8 @@ With the project officially over, we all split up into different groups. Some he
 ## The Snowball Battle
 
 After leaving school, Sinan, Ali, Miguel, and Gael embarked on an adventure together. They stumbled upon a vacant lot covered in snow, and what started as innocent fun turned into a full-blown snowball fight.
+
+![ali-sinan-miguel-gael-trip](images/last-day-ali-sinan-miguel-gael.webp)
 
 ## Farewell, Skövde
 
