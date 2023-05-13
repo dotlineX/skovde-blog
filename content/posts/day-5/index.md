@@ -40,9 +40,9 @@ After the presentations, it was revealed that the 'Admin Admin' team had scored 
 
 Following the presentations, we feasted on Smorgastarta, a delicious, traditional Swedish dish. Stacked with layers of bread, cheese, vegetables, and meats, it was a fun way to bond with our fellow participants over a shared cultural experience.
 
-|                  Final Presentation                   |               Noah speech               |                         Smorgastarta                          |
-| :---------------------------------------------------: | :-------------------------------------: | :-----------------------------------------------------------: |
-| ![final-presentation](images/final-presentation.webp) | ![noah-speech](images/noah-speech.webp) | ![smorgastarta-unpacking](images/smorgastarta-unpacking.webp) |
+|                  Awarding group 10                   |               Awarding group 10               |                         Smorgastarta                          |
+| :--------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------------------: |
+| ![final-presentation](images/awarding-group-10.webp) | ![noah-speech](images/group-10-images-2.webp) | ![smorgastarta-unpacking](images/smorgastarta-unpacking.webp) |
 
 ## The Journey Home
 
@@ -57,3 +57,5 @@ After leaving school, Sinan, Ali, Miguel, and Gael embarked on an adventure toge
 ## Farewell, Skövde
 
 Sadly, the time to say goodbye had come. But as we parted ways, we couldn't help but look back at the week with fondness. This project and our time in Sweden were more than just an academic excursion; it was a journey filled with laughter, learning, and memories that we will cherish forever.
+
+![bye-bye-skovde](images/farewell-skovde-cup.webp)
