@@ -28,21 +28,21 @@ Much to everyone's surprise, the group that came in third on the leaderboard was
 
 Then came the part we had all been eagerly waiting for - the final presentation session with our teachers. It was a great opportunity to learn from each other as we reviewed the different approaches taken to overcome the challenges.
 
-|                  Final Presentation                   |               Noah speech               |
-| :---------------------------------------------------: | :-------------------------------------: |
-| ![final-presentation](images/final-presentation.webp) | ![noah-speech](images/noah-speech.webp) |
+|                  Final Presentation                   |              Noa's speech               |
+| :---------------------------------------------------: |:---------------------------------------:|
+| ![final-presentation](images/final-presentation.webp) | ![noa-speech](images/noa-speech.webp) |
 
 ## A Note of Acknowledgement: 'Admin Admin'
 
 After the presentations, it was revealed that the 'Admin Admin' team had scored the highest, earning a commendable 33 points. As a token of appreciation for their efforts, each member was awarded a Skövde sweater.
 
-## A Culinary Finale: The Smorgastarta
+## A Culinary Finale: The Smörgåstårta
 
-Following the presentations, we feasted on Smorgastarta, a delicious, traditional Swedish dish. Stacked with layers of bread, cheese, vegetables, and meats, it was a fun way to bond with our fellow participants over a shared cultural experience.
+Following the presentations, we feasted on Smörgåstårta, a delicious, traditional Swedish dish. Stacked with layers of bread, cheese, vegetables, and meats, it was a fun way to bond with our fellow participants over a shared cultural experience.
 
-|                  Awarding group 10                   |               Awarding group 10               |                         Smorgastarta                          |
-| :--------------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------------------: |
-| ![final-presentation](images/awarding-group-10.webp) | ![noah-speech](images/group-10-images-2.webp) | ![smorgastarta-unpacking](images/smorgastarta-unpacking.webp) |
+|                  Awarding group 10                   |              Awarding group 10               |                         Smörgåstårta                          |
+| :--------------------------------------------------: |:--------------------------------------------:| :-----------------------------------------------------------: |
+| ![final-presentation](images/awarding-group-10.webp) | ![noa-speech](images/group-10-images-2.webp) | ![smorgastarta-unpacking](images/smorgastarta-unpacking.webp) |
 
 ## The Journey Home
 
