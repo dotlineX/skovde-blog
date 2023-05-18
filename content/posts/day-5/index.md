@@ -2,7 +2,7 @@
 title: "Day 5 - Embracing Farewell: Bidding Adieu to Skövde's School Adventure"
 description: "Leaving Skövde"
 toc: false
-cover: "![Background-image-group-picture](images/bg.webp)"
+cover: "images/bg.webp"
 useRelativeCover: true
 ---
 
