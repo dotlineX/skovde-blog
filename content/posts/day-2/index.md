@@ -1,5 +1,5 @@
 ---
-title: "Day 2 - Things don't run always smoothly"
+title: "Day 2 - Things don't always run smoothly"
 description: "Continuation on the previous day and some relaxation"
 toc: false
 cover: "car.webp"
