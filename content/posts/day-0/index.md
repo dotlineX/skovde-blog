@@ -11,6 +11,8 @@ useRelativeCover: true
 Our journey started as a usual trip. We got our bags and went to the airport. Ali, Miguel and Sinan were travelling
 together, they landed at Bromma airport in Stockholm.
 
+Joachim and Noa set foor in Sweden a day early and stayed the night in Gothenburg while exploring the city a bit.
+
 We had some time to kill at Stockholm until we had to catch our train so we went to the city center. 
 We ate some really nice food and walked around the city.
 
